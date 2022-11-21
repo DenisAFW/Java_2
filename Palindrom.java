@@ -18,8 +18,10 @@ public class Palindrom {
         if(result == true){
             System.out.println("Это палиндром.");
         }else{
-            System.out.println("Это не палиндом, пробуй снова!");
+            System.out.println("Это не палиндом, пробуй");
         }
+
+        
 
         f.close();
     }
