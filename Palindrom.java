@@ -17,7 +17,6 @@ public class Palindrom {
         }else{
             System.out.println("Это не палиндом, пробуй");
         }
-
         f.close();
     }
 
